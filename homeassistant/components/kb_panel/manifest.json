@@ -1,0 +1,12 @@
+{
+  "domain": "kb_panel",
+  "name": "KB Panel",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/kb_panel",
+  "requirements": ["pyserial == 3.4"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@krzysztofb88"]
+}

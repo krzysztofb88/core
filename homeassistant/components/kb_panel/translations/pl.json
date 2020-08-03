@@ -1,0 +1,20 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Już skonfigurowano"
+        },
+        "error": {
+            "cannot_connect": "Nie można się połączyć",
+            "invalid_auth": "Brak autoryzacji",
+            "unknown": "Nieznany błąd"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "serial_port": "Ścieżka lub nazwa portu szeregowego"
+                }
+            }
+        }
+    },
+    "title": "KB Panel"
+}

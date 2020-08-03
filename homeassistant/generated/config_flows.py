@@ -90,6 +90,7 @@ FLOWS = [
     "isy994",
     "izone",
     "juicenet",
+    "kb_panel",
     "konnected",
     "life360",
     "lifx",

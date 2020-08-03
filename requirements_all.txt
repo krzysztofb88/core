@@ -1594,6 +1594,9 @@ pysdcp==1
 # homeassistant.components.sensibo
 pysensibo==1.0.3
 
+# homeassistant.components.kb_panel
+pyserial == 3.4
+
 # homeassistant.components.serial
 pyserial-asyncio==0.4
 
