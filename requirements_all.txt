@@ -1595,6 +1595,7 @@ pysdcp==1
 pysensibo==1.0.3
 
 # homeassistant.components.kb_panel
+# homeassistant.components.kb_rel8
 pyserial == 3.4
 
 # homeassistant.components.serial

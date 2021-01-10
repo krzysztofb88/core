@@ -1,0 +1,14 @@
+{
+  "domain": "kb_rel8",
+  "name": "KB Rel8",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/kb_rel8",
+  "requirements": ["pyserial == 3.4"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@krzysztofb88"
+  ]
+}

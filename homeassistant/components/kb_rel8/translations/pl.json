@@ -1,0 +1,20 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Już skonfigurowano"
+        },
+        "error": {
+            "cannot_connect": "Nie można się połączyć",
+            "invalid_auth": "Brak autoryzacji",
+            "unknown": "Nieznany błąd"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "ip_address": "Adres modułu przekoźnikowego"
+                }
+            }
+        }
+    },
+    "title": "KB Rel8"
+}

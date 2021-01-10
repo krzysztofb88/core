@@ -91,6 +91,7 @@ FLOWS = [
     "izone",
     "juicenet",
     "kb_panel",
+    "kb_rel8",
     "konnected",
     "life360",
     "lifx",
