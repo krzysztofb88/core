@@ -1,4 +1,5 @@
 {
+  "version": "1",
   "domain": "kb_panel",
   "name": "KB Panel",
   "config_flow": true,

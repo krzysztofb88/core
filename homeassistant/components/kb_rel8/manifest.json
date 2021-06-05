@@ -1,4 +1,5 @@
 {
+  "version": "1",
   "domain": "kb_rel8",
   "name": "KB Rel8",
   "config_flow": true,
